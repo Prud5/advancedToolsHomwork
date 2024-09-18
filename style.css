@@ -90,13 +90,22 @@ p {
   .text-center{
     font-size: 20px;
   }
-  img{
-    display:none
+  h1{
+    font-size: 48px;
+    line-height: 1.5;
   }
-  .mt-5,col-6{
+    p{
+    text-align: center;
+  }
+   h2{
+    text-align: ;
+    font-size: 30px;
+   }
+   .primary-link{
     display: flex;
-      justify-content: center;
-      align-items: center;
+  margin-top: 40px;
+  justify-content: center;
+
    }
 
 }
